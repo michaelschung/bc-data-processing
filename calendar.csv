@@ -1,0 +1,357 @@
+day_of_week,month,day,start_time,end_time,course
+Wed,September,9,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,September,9,11:15am,12:00pm,Study Hall-10-1
+Thu,September,10,10am,11am,Computer Prog. Essentials-4
+Fri,September,11,6am,7am,Computer Prog. Essentials-5
+Fri,September,11,7:15am,8:15am,Analyzing Data in Python
+Fri,September,11,10am,11am,Computer Prog. Essentials-6
+Fri,September,11,11:15am,12:00pm,Computer Prog. Essent. II-6
+Mon,September,14,6am,7am,Computer Prog. Essent. II-3
+Mon,September,14,7:15am,8:15am,Study Hall-10-1
+Mon,September,14,10am,11am,Analyzing Data in Python
+Tue,September,15,6am,7am,Computer Prog. Essentials-3
+Wed,September,16,6am,7am,Computer Prog. Essent. II-6
+Wed,September,16,8:30am,9:15am,Advisory
+Wed,September,16,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,September,17,6am,7am,Computer Prog. Essentials-5
+Thu,September,17,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,September,17,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,September,18,6am,7am,Computer Prog. Essentials-6
+Fri,September,18,7:15am,8:15am,Study Hall-10-1
+Fri,September,18,8:30am,9:15am,Analyzing Data in Python
+Mon,September,21,10am,11am,Computer Prog. Essent. II-6
+Mon,September,21,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,September,22,6am,7am,Computer Prog. Essentials-3
+Tue,September,22,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,September,22,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,September,23,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,September,23,11:15am,12:00pm,Study Hall-10-1
+Thu,September,24,10am,11am,Computer Prog. Essentials-4
+Fri,September,25,6am,7am,Computer Prog. Essentials-5
+Fri,September,25,7:15am,8:15am,Analyzing Data in Python
+Fri,September,25,10am,11am,Computer Prog. Essentials-6
+Fri,September,25,11:15am,12:00pm,Computer Prog. Essent. II-6
+Tue,September,29,6am,7am,Computer Prog. Essentials-3
+Wed,September,30,6am,7am,Computer Prog. Essent. II-6
+Wed,September,30,8:30am,9:15am,Advisory
+Wed,September,30,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,October,1,6am,7am,Computer Prog. Essentials-5
+Thu,October,1,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,October,1,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,October,2,6am,7am,Computer Prog. Essentials-6
+Fri,October,2,7:15am,8:15am,Study Hall-10-1
+Fri,October,2,8:30am,9:15am,Analyzing Data in Python
+Mon,October,5,10am,11am,Computer Prog. Essent. II-6
+Mon,October,5,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,October,6,6am,7am,Computer Prog. Essentials-3
+Tue,October,6,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,October,6,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,October,7,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,October,7,11:15am,12:00pm,Study Hall-10-1
+Thu,October,8,10am,11am,Computer Prog. Essentials-4
+Fri,October,9,6am,7am,Computer Prog. Essentials-5
+Fri,October,9,7:15am,8:15am,Analyzing Data in Python
+Fri,October,9,10am,11am,Computer Prog. Essentials-6
+Fri,October,9,11:15am,12:00pm,Computer Prog. Essent. II-6
+Tue,October,13,6am,7am,Computer Prog. Essentials-3
+Wed,October,14,6am,7am,Computer Prog. Essent. II-6
+Wed,October,14,8:30am,9:15am,Advisory
+Wed,October,14,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,October,15,6am,7am,Computer Prog. Essentials-5
+Thu,October,15,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,October,15,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,October,16,6am,7am,Computer Prog. Essentials-6
+Fri,October,16,7:15am,8:15am,Study Hall-10-1
+Fri,October,16,8:30am,9:15am,Analyzing Data in Python
+Mon,October,19,10am,11am,Computer Prog. Essent. II-6
+Mon,October,19,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,October,20,6am,7am,Computer Prog. Essentials-3
+Tue,October,20,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,October,20,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,October,21,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,October,21,11:15am,12:00pm,Study Hall-10-1
+Thu,October,22,10am,11am,Computer Prog. Essentials-4
+Fri,October,23,6am,7am,Computer Prog. Essentials-5
+Fri,October,23,7:15am,8:15am,Analyzing Data in Python
+Fri,October,23,10am,11am,Computer Prog. Essentials-6
+Fri,October,23,11:15am,12:00pm,Computer Prog. Essent. II-6
+Mon,October,26,6am,7am,Computer Prog. Essent. II-3
+Mon,October,26,7:15am,8:15am,Study Hall-10-1
+Mon,October,26,10am,11am,Analyzing Data in Python
+Tue,October,27,6am,7am,Computer Prog. Essentials-3
+Wed,October,28,6am,7am,Computer Prog. Essent. II-6
+Wed,October,28,8:30am,9:15am,Advisory
+Wed,October,28,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,October,29,6am,7am,Computer Prog. Essentials-5
+Thu,October,29,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,October,29,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,October,30,6am,7am,Computer Prog. Essentials-6
+Fri,October,30,7:15am,8:15am,Study Hall-10-1
+Fri,October,30,8:30am,9:15am,Analyzing Data in Python
+Mon,November,2,10am,11am,Computer Prog. Essent. II-6
+Mon,November,2,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,November,3,6am,7am,Computer Prog. Essentials-3
+Tue,November,3,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,November,3,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,November,4,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,November,4,11:15am,12:00pm,Study Hall-10-1
+Mon,November,9,6am,7am,Computer Prog. Essent. II-3
+Mon,November,9,7:15am,8:15am,Study Hall-10-1
+Mon,November,9,10am,11am,Analyzing Data in Python
+Tue,November,10,6am,7am,Computer Prog. Essentials-3
+Wed,November,11,6am,7am,Computer Prog. Essent. II-6
+Wed,November,11,8:30am,9:15am,Advisory
+Wed,November,11,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,November,12,6am,7am,Computer Prog. Essentials-5
+Thu,November,12,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,November,12,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,November,13,6am,7am,Computer Prog. Essentials-6
+Fri,November,13,7:15am,8:15am,Study Hall-10-1
+Fri,November,13,8:30am,9:15am,Analyzing Data in Python
+Mon,November,16,10am,11am,Computer Prog. Essent. II-6
+Mon,November,16,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,November,17,6am,7am,Computer Prog. Essentials-3
+Tue,November,17,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,November,17,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,November,18,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,November,18,11:15am,12:00pm,Study Hall-10-1
+Thu,November,19,10am,11am,Computer Prog. Essentials-4
+Fri,November,20,6am,7am,Computer Prog. Essentials-5
+Fri,November,20,7:15am,8:15am,Analyzing Data in Python
+Fri,November,20,10am,11am,Computer Prog. Essentials-6
+Fri,November,20,11:15am,12:00pm,Computer Prog. Essent. II-6
+Mon,November,23,6am,7am,Computer Prog. Essent. II-3
+Mon,November,23,7:15am,8:15am,Study Hall-10-1
+Mon,November,23,10am,11am,Analyzing Data in Python
+Tue,November,24,6am,7am,Computer Prog. Essentials-3
+Mon,November,30,10am,11am,Computer Prog. Essent. II-6
+Mon,November,30,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,December,1,6am,7am,Computer Prog. Essentials-3
+Tue,December,1,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,December,1,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,December,2,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,December,2,11:15am,12:00pm,Study Hall-10-1
+Thu,December,3,10am,11am,Computer Prog. Essentials-4
+Fri,December,4,6am,7am,Computer Prog. Essentials-5
+Fri,December,4,7:15am,8:15am,Analyzing Data in Python
+Fri,December,4,10am,11am,Computer Prog. Essentials-6
+Fri,December,4,11:15am,12:00pm,Computer Prog. Essent. II-6
+Mon,December,7,6am,7am,Computer Prog. Essent. II-3
+Mon,December,7,7:15am,8:15am,Study Hall-10-1
+Mon,December,7,10am,11am,Analyzing Data in Python
+Tue,December,8,6am,7am,Computer Prog. Essentials-3
+Wed,December,9,6am,7am,Computer Prog. Essent. II-6
+Wed,December,9,8:30am,9:15am,Advisory
+Wed,December,9,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,December,10,6am,7am,Computer Prog. Essentials-5
+Thu,December,10,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,December,10,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,December,11,6am,7am,Computer Prog. Essentials-6
+Fri,December,11,7:15am,8:15am,Study Hall-10-1
+Fri,December,11,8:30am,9:15am,Analyzing Data in Python
+Mon,December,14,10am,11am,Computer Prog. Essent. II-6
+Mon,December,14,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,December,15,6am,7am,Computer Prog. Essentials-3
+Tue,December,15,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,December,15,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,December,16,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,December,16,11:15am,12:00pm,Study Hall-10-1
+Thu,December,17,10am,11am,Computer Prog. Essentials-4
+Fri,December,18,6am,7am,Computer Prog. Essentials-5
+Fri,December,18,7:15am,8:15am,Analyzing Data in Python
+Fri,December,18,10am,11am,Computer Prog. Essentials-6
+Fri,December,18,11:15am,12:00pm,Computer Prog. Essent. II-6
+Tue,January,5,6am,7am,Computer Prog. Essentials-3
+Wed,January,6,6am,7am,Computer Prog. Essent. II-6
+Wed,January,6,8:30am,9:15am,Advisory
+Wed,January,6,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,January,7,6am,7am,Computer Prog. Essentials-5
+Thu,January,7,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,January,7,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,January,8,6am,7am,Computer Prog. Essentials-6
+Fri,January,8,7:15am,8:15am,Study Hall-10-1
+Fri,January,8,8:30am,9:15am,Analyzing Data in Python
+Mon,January,11,10am,11am,Computer Prog. Essent. II-6
+Mon,January,11,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,January,12,6am,7am,Computer Prog. Essentials-3
+Tue,January,12,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,January,12,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,January,13,7:15am,8:15am,Computer Prog. Essent. II-3
+Wed,January,13,11:15am,12:00pm,Study Hall-10-1
+Thu,January,14,10am,11am,Computer Prog. Essentials-4
+Fri,January,15,6am,7am,Computer Prog. Essentials-5
+Fri,January,15,7:15am,8:15am,Analyzing Data in Python
+Fri,January,15,10am,11am,Computer Prog. Essentials-6
+Fri,January,15,11:15am,12:00pm,Computer Prog. Essent. II-6
+Tue,January,19,6am,7am,Computer Prog. Essentials-3
+Wed,January,20,6am,7am,Computer Prog. Essent. II-6
+Wed,January,20,8:30am,9:15am,Advisory
+Wed,January,20,11:15am,12:00pm,Computer Prog. Essent. II-3
+Thu,January,21,6am,7am,Computer Prog. Essentials-5
+Thu,January,21,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,January,21,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,January,22,6am,7am,Computer Prog. Essentials-6
+Fri,January,22,7:15am,8:15am,Study Hall-10-1
+Fri,January,22,8:30am,9:15am,Analyzing Data in Python
+Mon,January,25,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,January,26,6am,7am,Computer Prog. Essentials-3
+Tue,January,26,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,January,26,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,January,27,11:15am,12:00pm,Study Hall-10-2
+Thu,January,28,10am,11am,Computer Prog. Essentials-4
+Fri,January,29,6am,7am,Computer Prog. Essentials-5
+Fri,January,29,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,January,29,10am,11am,Computer Prog. Essentials-6
+Mon,February,1,7:15am,8:15am,Study Hall-10-2
+Mon,February,1,10am,11am,Computer Prog. Essent. II-7
+Tue,February,2,6am,7am,Computer Prog. Essentials-3
+Wed,February,3,8:30am,9:15am,Advisory
+Thu,February,4,6am,7am,Computer Prog. Essentials-5
+Thu,February,4,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,February,4,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,February,5,6am,7am,Computer Prog. Essentials-6
+Fri,February,5,7:15am,8:15am,Study Hall-10-2
+Fri,February,5,8:30am,9:15am,Computer Prog. Essent. II-7
+Mon,February,8,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,February,9,6am,7am,Computer Prog. Essentials-3
+Tue,February,9,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,February,9,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,February,10,11:15am,12:00pm,Study Hall-10-2
+Thu,February,11,10am,11am,Computer Prog. Essentials-4
+Fri,February,12,6am,7am,Computer Prog. Essentials-5
+Fri,February,12,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,February,12,10am,11am,Computer Prog. Essentials-6
+Mon,February,15,7:15am,8:15am,Study Hall-10-2
+Mon,February,15,10am,11am,Computer Prog. Essent. II-7
+Tue,February,16,6am,7am,Computer Prog. Essentials-3
+Wed,February,17,8:30am,9:15am,Advisory
+Thu,February,18,6am,7am,Computer Prog. Essentials-5
+Thu,February,18,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,February,18,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,February,19,6am,7am,Computer Prog. Essentials-6
+Fri,February,19,7:15am,8:15am,Study Hall-10-2
+Fri,February,19,8:30am,9:15am,Computer Prog. Essent. II-7
+Mon,February,22,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,February,23,6am,7am,Computer Prog. Essentials-3
+Tue,February,23,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,February,23,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,February,24,11:15am,12:00pm,Study Hall-10-2
+Mon,March,1,7:15am,8:15am,Study Hall-10-2
+Mon,March,1,10am,11am,Computer Prog. Essent. II-7
+Tue,March,2,6am,7am,Computer Prog. Essentials-3
+Wed,March,3,8:30am,9:15am,Advisory
+Thu,March,4,6am,7am,Computer Prog. Essentials-5
+Thu,March,4,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,March,4,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,March,5,6am,7am,Computer Prog. Essentials-6
+Fri,March,5,7:15am,8:15am,Study Hall-10-2
+Fri,March,5,8:30am,9:15am,Computer Prog. Essent. II-7
+Mon,March,8,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,March,9,6am,7am,Computer Prog. Essentials-3
+Tue,March,9,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,March,9,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,March,10,11:15am,12:00pm,Study Hall-10-2
+Thu,March,11,10am,11am,Computer Prog. Essentials-4
+Fri,March,12,6am,7am,Computer Prog. Essentials-5
+Fri,March,12,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,March,12,10am,11am,Computer Prog. Essentials-6
+Mon,March,15,7:15am,8:15am,Study Hall-10-2
+Mon,March,15,10am,11am,Computer Prog. Essent. II-7
+Tue,March,16,6am,7am,Computer Prog. Essentials-3
+Wed,March,17,8:30am,9:15am,Advisory
+Thu,March,18,6am,7am,Computer Prog. Essentials-5
+Thu,March,18,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,March,18,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,March,19,6am,7am,Computer Prog. Essentials-6
+Fri,March,19,7:15am,8:15am,Study Hall-10-2
+Fri,March,19,8:30am,9:15am,Computer Prog. Essent. II-7
+Mon,April,5,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,April,6,6am,7am,Computer Prog. Essentials-3
+Tue,April,6,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,April,6,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,April,7,11:15am,12:00pm,Study Hall-10-2
+Thu,April,8,10am,11am,Computer Prog. Essentials-4
+Fri,April,9,6am,7am,Computer Prog. Essentials-5
+Fri,April,9,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,April,9,10am,11am,Computer Prog. Essentials-6
+Mon,April,12,7:15am,8:15am,Study Hall-10-2
+Mon,April,12,10am,11am,Computer Prog. Essent. II-7
+Tue,April,13,6am,7am,Computer Prog. Essentials-3
+Wed,April,14,8:30am,9:15am,Advisory
+Thu,April,15,6am,7am,Computer Prog. Essentials-5
+Thu,April,15,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,April,15,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,April,16,6am,7am,Computer Prog. Essentials-6
+Fri,April,16,7:15am,8:15am,Study Hall-10-2
+Fri,April,16,8:30am,9:15am,Computer Prog. Essent. II-7
+Tue,April,20,6am,7am,Computer Prog. Essentials-3
+Tue,April,20,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,April,20,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,April,21,11:15am,12:00pm,Study Hall-10-2
+Thu,April,22,10am,11am,Computer Prog. Essentials-4
+Fri,April,23,6am,7am,Computer Prog. Essentials-5
+Fri,April,23,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,April,23,10am,11am,Computer Prog. Essentials-6
+Mon,April,26,7:15am,8:15am,Study Hall-10-2
+Mon,April,26,10am,11am,Computer Prog. Essent. II-7
+Tue,April,27,6am,7am,Computer Prog. Essentials-3
+Wed,April,28,8:30am,9:15am,Advisory
+Thu,April,29,6am,7am,Computer Prog. Essentials-5
+Thu,April,29,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,April,29,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,April,30,6am,7am,Computer Prog. Essentials-6
+Fri,April,30,7:15am,8:15am,Study Hall-10-2
+Fri,April,30,8:30am,9:15am,Computer Prog. Essent. II-7
+Mon,May,3,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,May,4,6am,7am,Computer Prog. Essentials-3
+Tue,May,4,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,May,4,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,May,5,11:15am,12:00pm,Study Hall-10-2
+Thu,May,6,10am,11am,Computer Prog. Essentials-4
+Fri,May,7,6am,7am,Computer Prog. Essentials-5
+Fri,May,7,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,May,7,10am,11am,Computer Prog. Essentials-6
+Mon,May,10,7:15am,8:15am,Study Hall-10-2
+Mon,May,10,10am,11am,Computer Prog. Essent. II-7
+Tue,May,11,6am,7am,Computer Prog. Essentials-3
+Wed,May,12,8:30am,9:15am,Advisory
+Thu,May,13,6am,7am,Computer Prog. Essentials-5
+Thu,May,13,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,May,13,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,May,14,6am,7am,Computer Prog. Essentials-6
+Fri,May,14,7:15am,8:15am,Study Hall-10-2
+Fri,May,14,8:30am,9:15am,Computer Prog. Essent. II-7
+Mon,May,17,11:15am,12:00pm,Computer Prog. Essentials-6
+Tue,May,18,6am,7am,Computer Prog. Essentials-3
+Tue,May,18,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,May,18,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,May,19,11:15am,12:00pm,Study Hall-10-2
+Thu,May,20,10am,11am,Computer Prog. Essentials-4
+Fri,May,21,6am,7am,Computer Prog. Essentials-5
+Fri,May,21,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,May,21,10am,11am,Computer Prog. Essentials-6
+Mon,May,24,7:15am,8:15am,Study Hall-10-2
+Mon,May,24,10am,11am,Computer Prog. Essent. II-7
+Tue,May,25,6am,7am,Computer Prog. Essentials-3
+Wed,May,26,8:30am,9:15am,Advisory
+Thu,May,27,6am,7am,Computer Prog. Essentials-5
+Thu,May,27,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,May,27,8:30am,9:15am,Computer Prog. Essentials-3
+Fri,May,28,6am,7am,Computer Prog. Essentials-6
+Fri,May,28,7:15am,8:15am,Study Hall-10-2
+Fri,May,28,8:30am,9:15am,Computer Prog. Essent. II-7
+Tue,June,1,6am,7am,Computer Prog. Essentials-3
+Tue,June,1,8:30am,9:15am,Computer Prog. Essentials-4
+Tue,June,1,11:15am,12:00pm,Computer Prog. Essentials-5
+Wed,June,2,11:15am,12:00pm,Study Hall-10-2
+Thu,June,3,10am,11am,Computer Prog. Essentials-4
+Fri,June,4,6am,7am,Computer Prog. Essentials-5
+Fri,June,4,7:15am,8:15am,Computer Prog. Essent. II-7
+Fri,June,4,10am,11am,Computer Prog. Essentials-6
+Mon,June,7,7:15am,8:15am,Study Hall-10-2
+Mon,June,7,10am,11am,Computer Prog. Essent. II-7
+Tue,June,8,6am,7am,Computer Prog. Essentials-3
+Wed,June,9,8:30am,9:15am,Advisory
+Thu,June,10,6am,7am,Computer Prog. Essentials-5
+Thu,June,10,7:15am,8:15am,Computer Prog. Essentials-4
+Thu,June,10,8:30am,9:15am,Computer Prog. Essentials-3
