@@ -10,3 +10,4 @@ Many of these data sets came from [kaggle.com](https://www.kaggle.com/datasets),
 - [fifa2019](https://www.kaggle.com/karangadiya/fifa19)
 - [groceries](https://www.kaggle.com/heeraldedhia/groceries-dataset)
 - [netflix_titles](https://www.kaggle.com/shivamb/netflix-shows)
+- [pokemon_stats](https://www.kaggle.com/abcsds/pokemon) and [pokemon_type_matchup](https://www.kaggle.com/lunamcbride24/pokemon-type-matchup-data)
