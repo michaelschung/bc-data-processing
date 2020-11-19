@@ -1,4 +1,4 @@
-# Kent County, Michigan, 2020 Voting Data
+# Kent County, Michigan - 2020 Voting Data
 
 This data was taken directly from [ElectionReporting.com](https://electionreporting.com/), and consists of the straight-party and individual presidential votes from Kent County, MI, in November 2020. This county was chosen because it appears in both of the videos below.
 
