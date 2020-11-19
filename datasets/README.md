@@ -11,3 +11,5 @@ Many of these data sets came from [kaggle.com](https://www.kaggle.com/datasets),
 - [fifa2019](https://www.kaggle.com/karangadiya/fifa19)
 - [groceries](https://www.kaggle.com/heeraldedhia/groceries-dataset)
 - [netflix_titles](https://www.kaggle.com/shivamb/netflix-shows)
+
+If you find data that you'd like to work with but it's not listed in this repository, feel free to let me know! I'd be happy to download/scrape any publicly-available data set and add it here for you to use.
