@@ -1,0 +1,30 @@
+Names in the Article.,
+Country,
+Year,
+balance,
+texp,
+trg,
+dp (in data set) ,Polity Filter zero or positive => dp = 1
+dnd (in data set) ,New Democracy => dnd = 1
+TRD,The ratio of international trade to GDP
+POP1564,The fraction of the population between ages 15 and 64
+POP65,The fraction of the population over age 65
+LGDP_PC,Log of per-capita GDP
+GDP_RHP,"The log difference between real GDP and its (country specific) trend, estimated using a Hodrick-Prescott filter."
+Elect,
+Elect_old,
+Elect_ND1,
+Elect_ND2,
+Elect_ND3,
+Elect_ND4,
+Elect_ND_LATER,
+Elect-pres,
+Elect-parl,
+Elect-prop,
+Elect-maj,
+Elect-endog,
+Elect-pred,
+Elect-half1,
+Elect-half2,
+Elect-low,
+Elect-high,
