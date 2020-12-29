@@ -1,5 +1,13 @@
 # Notes on these data sets
 
+## Stock market data
+
+I added two more data sets, named `SPY.csv` and `TLT.csv`. The SPY data came from [here](https://finance.yahoo.com/quote/SPY/history?period1=728265600&period2=1609113600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true), which showed up when I searched "SPY ETF data over time csv," and the TLT data came from [here](https://finance.yahoo.com/quote/TLT/history?period1=1027987200&period2=1609113600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true), which showed up when I searched "TLT bond data over time csv." Both of those Google search queries were based on your email where you told me what you needed.
+
+On each of those pages linked above, I set the Time Period to "Max" and the Frequency to "Daily," and then just clicked the Download button. I hope they're what you're looking for!
+
+---
+
 Unfortunately, the link you provided for exploring opening moves on 365chess.com could not be scraped into CSV files. Instead, I did my best to find an extensive data set that might possibly work. I found [this one](https://www.kaggle.com/penchalaiah123/chess-game-dataset) on Kaggle. It's not data from professional players, but I hope it can help you do some good analysis anyway!
 
 ## Update: added massive chess data set
