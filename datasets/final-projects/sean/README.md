@@ -8,9 +8,11 @@ On each of those pages linked above, I set the Time Period to "Max" and the Freq
 
 ---
 
+## Chess data
+
 Unfortunately, the link you provided for exploring opening moves on 365chess.com could not be scraped into CSV files. Instead, I did my best to find an extensive data set that might possibly work. I found [this one](https://www.kaggle.com/penchalaiah123/chess-game-dataset) on Kaggle. It's not data from professional players, but I hope it can help you do some good analysis anyway!
 
-## Update: added massive chess data set
+### Update: added massive chess data set
 
 I found [another data set](https://www.kaggle.com/milesh1/35-million-chess-games), this time containing data from over 3.5 million games (3,561,470 to be exact). As a single file, the data took up more than 2.5GB, which is too large of a file size for Github to allow. Thus, I split up the data into 30 files, each containing 120,000 lines – all of which can be found inside the `chess-data-chunked` folder.
 
