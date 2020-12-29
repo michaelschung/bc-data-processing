@@ -10,7 +10,7 @@ On each of those pages linked above, I set the Time Period to "Max" and the Freq
 
 ## Chess data
 
-Unfortunately, the link you provided for exploring opening moves on 365chess.com could not be scraped into CSV files. Instead, I did my best to find an extensive data set that might possibly work. I found [this one](https://www.kaggle.com/penchalaiah123/chess-game-dataset) on Kaggle. It's not data from professional players, but I hope it can help you do some good analysis anyway!
+Unfortunately, the link you provided for exploring opening moves on 365chess.com could not be scraped into CSV files. Instead, I did my best to find an extensive data set that might possibly work. I found [this one](https://www.kaggle.com/penchalaiah123/chess-game-dataset) on Kaggle and downloaded it to the file named `lichess-games.csv`. It's not data from professional players, but I hope it can help you do some good analysis anyway!
 
 ### Update: added massive chess data set
 
@@ -30,3 +30,5 @@ chess = pd.concat(all_dfs)
 
 chess
 ```
+
+If you choose to use this massive data set, I _highly_ recommend that you develop and test your code using just one of the files with 120K lines. Then, when you're confident that your code works as intended, paste in the code snippet above to use the entire 3.5M lines. This will save you a lot of wait time while you're just trying to refine your code.
