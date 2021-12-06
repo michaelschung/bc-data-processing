@@ -12,4 +12,7 @@ Many of these data sets came from [kaggle.com](https://www.kaggle.com/datasets),
 - [groceries](https://www.kaggle.com/heeraldedhia/groceries-dataset)
 - [netflix_titles](https://www.kaggle.com/shivamb/netflix-shows)
 
+Non-Kaggle data sets
+- [volcanic_eruptions](https://volcano.si.edu/search_eruption.cfm)
+
 If you find data that you'd like to work with but it's not listed in this repository, feel free to let me know! I'd be happy to download/scrape any publicly-available data set and add it here for you to use.
