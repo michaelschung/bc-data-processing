@@ -1,3 +1,5 @@
 .DS_Store
 datasets/flights/flights_full.csv
 chess-data/all_with_filtered_anotations_since1998.*
+pandas/*
+presentations/*
